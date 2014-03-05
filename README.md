@@ -1,7 +1,7 @@
 jQuerySimpleCounter
 ===================
 
-Simple jQuery Animate Counter
+###Simple jQuery Animate Counter
 
 
 ```sh
@@ -21,17 +21,23 @@ $('#count-test').jQuerySimpleCounter({
 
 ```
 
-More options:
+###More options:
 
 ```sh
-  {
-    start:  0,
-    end:    100,
+{
+    start:  0, // inicial number
+    end:    100, // final number
     easing: 'swing',
     duration: 400,
     complete: function(){
-
+      console.log('Hello!');
     }
 
-
+}
 ```
+#####Author:
+[marcoscesar]:http://github.com/marcoscesar
+
+
+#####Credits:
+[Joss Crowcroft]:http://www.josscrowcroft.com/2011/code/jquery-animate-increment-decrement-numeric-text-elements-value
