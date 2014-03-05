@@ -1,4 +1,4 @@
-jQuerySimpleCounter
+jQuery Simple Counter
 ===================
 
 ###Simple jQuery Animate Counter
