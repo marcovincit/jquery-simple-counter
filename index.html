@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>jQuerySimpleCounter Example</title>
+
+	<style>
+		body {
+			text-align: center;
+			font-size: 200px;
+			color: #efefef;
+		}
+	</style>
+</head>
+<body>
+
+	<div id="count-test"></div>
+
+	<script type="text/javascript" src="http://code.jquery.com/jquery-2.1.0.min.js"></script>
+
+	<script type="text/javascript" src="jQuerySimpleCounter.js"></script>
+	<script>
+
+		$('#count-test').jQuerySimpleCounter({
+			end:100,
+			duration: 4000
+		});
+
+	</script>
+</body>
+</html>
