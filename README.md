@@ -36,8 +36,8 @@ $('#count-test').jQuerySimpleCounter({
 }
 ```
 #####Author:
-[marcoscesar]:http://github.com/marcoscesar
-
+[Marcos César](http://github.com/marcoscesar)
 
 #####Credits:
-[Joss Crowcroft]:http://www.josscrowcroft.com/2011/code/jquery-animate-increment-decrement-numeric-text-elements-value
+[Joss Crowcroft](https://github.com/josscrowcroft)
+- [Use jQuery.animate() to increment / decrement numeric text or an element’s value](http://www.josscrowcroft.com/2011/code/jquery-animate-increment-decrement-numeric-text-elements-value)
