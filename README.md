@@ -36,7 +36,7 @@ $('#count-test').jQuerySimpleCounter({
 }
 ```
 #####Author:
-[Marcos César](http://github.com/marcoscesar)
+[Marco Vincit](http://github.com/marcoscesar)
 
 #####Credits:
 [Joss Crowcroft](https://github.com/josscrowcroft)
