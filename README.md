@@ -39,11 +39,11 @@ $('#count-test').jQuerySimpleCounter({
 ## More options:
 
 ```js
-  start:  0, // inicial number
-  end:    100, // final number
-  easing: 'swing',
-  duration: 400,
-  complete: function(){console.log('Finished!')}
+start:  0, // inicial number
+end:    100, // final number
+easing: 'swing',
+duration: 400,
+complete: function(){console.log('Finished!')}
 ```
 
 <br>
